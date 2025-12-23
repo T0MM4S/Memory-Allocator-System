@@ -146,8 +146,8 @@ Projekti përdor një strategji branch për zhvillim paralel:
 ### Ekipi i Zhvillimit
 
 - Gent - Stack Allocator Implementation (`feature/stack-allocator`)
-- Ard - Pool Allocator Implementation (`feature/pool-allocator`)
-- Yllka - Benchmarking System (`feature/benchmarking`)
+- Yllka - Pool Allocator Implementation (`feature/pool-allocator`)
+- Ard - Benchmarking System (`feature/benchmarking`)
 - Albert - Unit Tests & Documentation (`feature/unit-tests`)
 
 ##  Commit Message Guidelines
